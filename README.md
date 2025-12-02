@@ -41,12 +41,9 @@ project/
 │   ├── ai_cat/             # pretrained model 1
 │   ├── plush_cat/          # pretrained model 2
 │   └── real_cat/           # pretrained model 3
-│── CNN Model/
-│   ├── cat_classifier_custom_cnn_pytorch.pth   # pretrained model 1
-│── ResNet Model/
-│   ├── ResNet_Model.pth    # pretrained model 2
-│── ViT Model/
-│   ├── best_swin_model.pth # pretrained model 3
+├── cat_classifier_custom_cnn_pytorch.pth   # pretrained model 1
+├── ResNet_Model.pth        # pretrained model 2
+├── best_swin_model.pth     # pretrained model 3
 │── README.md
 │── requirements.txt
 ```
