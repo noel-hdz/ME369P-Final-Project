@@ -34,6 +34,7 @@ cd ME369P-Final-Project
 ## 3️⃣ Place the Data and Models (Required)
 After cloning, move the downloaded dataset and model folders into the repo. The code expects the data and models in specific locations.
 
+```text
 Recommended Structure:
 project/
 │── data/                   # dataset (download separately)
@@ -48,6 +49,7 @@ project/
 │   ├── best_swin_model.pth # pretrained model 3
 │── README.md
 │── requirements.txt
+```
 
 ## 4️⃣ Run the Project
 For CNN Model Run ____
